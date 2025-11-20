@@ -16,7 +16,15 @@ Data Ingestion
 
 Load raw data (e.g., taxi trip records) into a lakehouse or data lake within Microsoft Fabric.
 
+<img width="1243" height="192" alt="image" src="https://github.com/user-attachments/assets/4c2f8ffa-70f5-477d-b741-3fa90207331a" />
+
+<img width="558" height="195" alt="image" src="https://github.com/user-attachments/assets/b203fb4f-56ac-4f55-86e0-7a4f782dc945" />
+
+
+
 Use Dataflows / Pipelines for ingestion.
+
+<img width="992" height="213" alt="image" src="https://github.com/user-attachments/assets/6bf3f1fa-fa67-402a-bc94-0e1831f03f31" />
 
 Data Transformation & Storage
 
@@ -27,6 +35,8 @@ Store as Delta tables / relational tables.
 Modelling
 
 Build a semantic model / dimensional model (facts + dimensions).
+
+
 
 Optimize for reporting (star schema, aggregated tables).
 
