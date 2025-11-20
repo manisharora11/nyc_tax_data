@@ -32,6 +32,9 @@ Clean and prepare data: apply filters, derive new features (trip duration, dista
 
 Store as Delta tables / relational tables.
 
+<img width="517" height="183" alt="image" src="https://github.com/user-attachments/assets/1f13543a-865e-491f-93e9-a685c56b698a" />
+
+
 Modelling
 
 Build a semantic model / dimensional model (facts + dimensions).
