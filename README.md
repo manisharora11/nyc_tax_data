@@ -75,6 +75,9 @@ Power BI for reporting
 
 Metadata & governance using Fabric Catalog
 
+<img width="1032" height="647" alt="image" src="https://github.com/user-attachments/assets/89f14fea-0dbf-4ab5-b940-30b0bf384c9c" />
+
+
 ✅ Setup & Running the Project
 
 Clone the repo:
@@ -95,6 +98,9 @@ Execute transformation notebook to derive processed tables into /data/processed.
 Deploy semantic model (SQL script) to build your modelling layer.
 
 Open dashboard.pbix in Power BI → connect to the semantic model → publish to service.
+
+<img width="2310" height="1292" alt="image" src="https://github.com/user-attachments/assets/ea93be1d-3c3b-4290-96e9-f243c197d713" />
+
 
 Configure sharing & access via Fabric workspace, assign roles/groups.
 
