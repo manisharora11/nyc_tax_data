@@ -10,6 +10,9 @@ The use case: NYC taxi data (or whichever dataset you choose) — demonstrate da
 
 🚀 Project Workflow
 
+<img width="1221" height="392" alt="image" src="https://github.com/user-attachments/assets/7db70552-4740-4c6b-ba9c-f14988c0f53f" />
+
+
 Here’s what the project covers:
 
 Data Ingestion
