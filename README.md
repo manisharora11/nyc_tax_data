@@ -1,4 +1,4 @@
-End-to-End Data Project using Microsoft Fabric
+End-to-End Data Project using Microsoft Fabric For NYC Yellow Taxi Data
 
 A complete analytics workflow for data analysts and BI engineers
 
