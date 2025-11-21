@@ -142,12 +142,3 @@ Extend semantic model with more dimensions (weather, events, holidays).
 
 Automate refresh pipelines and set up alerts for anomalies.
 
-🙋 Credits & Resources
-
-Video tutorial: Microsoft Fabric End to End Data Project (YouTube)
-
-Official Microsoft docs: End-to-end tutorials in Microsoft Fabric 
-learn.microsoft.com
-+1
-
-Data source: NYC taxi dataset (or specify whichever you used)
